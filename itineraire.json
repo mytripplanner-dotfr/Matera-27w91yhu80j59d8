@@ -1,0 +1,136 @@
+{
+  "pays": "Italie",
+  "drapeau": "🇮🇹",
+  "symbole": "🏛️",
+  "titre": "Matera, la Cité des Sassi",
+  "budget_total": "Environ 550-600 €/personne",
+  "duree": "2 jours",
+  "temps_vol": "2h25 depuis Paris, France",
+  "escale": "0",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et immersion dans les Sassi",
+      "legende": "Après un vol direct vers Bari, un court transfert vous mènera à Matera, la ville troglodyte. Installez-vous dans votre hôtel creusé dans la roche et laissez-vous charmer par les ruelles sinueuses du Sasso Barisano, le quartier le plus restauré. Une première soirée douce pour s'imprégner de l'atmosphère unique de cette cité millénaire.",
+      "lieu": "Matera",
+      "activites": [
+        "🛬 Arrivée à l'aéroport de Bari et transfert vers Matera",
+        "🛏️ Installation dans un hôtel troglodyte",
+        "<strong>🚶‍♂️ Balade dans le Sasso Barisano</strong>: Flânez dans les ruelles labyrinthiques du Sasso Barisano, le quartier le plus restauré des Sassi, et admirez les façades des maisons troglodytes transformées en hôtels et restaurants.",
+        "<strong>🍽️ Dégustation de saveurs locales</strong>: Savourez un dîner authentique dans un restaurant troglodyte, en découvrant les plats traditionnels de la Basilicate."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Aéroport de Bari Karol Wojtyła, Bari",
+          "categorie": "Aéroport",
+          "coords": { "lat": 41.1389, "lng": 16.7605 }
+        },
+        {
+          "nom_recherche": "Sasso Barisano, Matera",
+          "categorie": "Quartier historique",
+          "coords": { "lat": 40.6690, "lng": 16.6080 }
+        }
+      ],
+      "illustration": "matera_jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "Transfert Bari-Matera",
+          "texte": "Des navettes directes ou des bus relient l'aéroport de Bari à Matera en environ 1h à 1h30. Pensez à réserver à l'avance, surtout en haute saison."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🗿",
+      "titre": "Trésors rupestres et panoramas grandioses",
+      "legende": "Cette journée est dédiée à l'exploration des trésors cachés de Matera. Découvrez les églises rupestres et les habitations troglodytes qui racontent des siècles d'histoire. L'après-midi, un point de vue spectaculaire sur la ville vous attend, avant de vous laisser tenter par l'artisanat local. Un départ en fin de journée pour un retour vers Paris, la tête pleine de souvenirs.",
+      "lieu": "Matera",
+      "activites": [
+        "<strong>⛪ Exploration des Chiese Rupestri</strong>: Plongez dans l'histoire en visitant quelques-unes des fascinantes églises rupestres, témoins de la vie monastique et des fresques anciennes.",
+        "<strong>🏠 Visite d'une Casa Grotta</strong>: Découvrez la vie quotidienne d'autrefois en explorant une \"Casa Grotta\" typique, une habitation troglodyte meublée comme au début du XXe siècle.",
+        "<strong>🏞️ Vue panoramique depuis la Murgia Materana</strong>: Traversez le canyon de la Gravina pour atteindre le parc de la Murgia Materana et admirez une vue imprenable sur l'ensemble des Sassi, un spectacle à couper le souffle.",
+        "<strong>🛍️ Découverte de l'artisanat local</strong>: Flânez dans les boutiques d'artisans pour trouver des souvenirs uniques, comme des objets en terre cuite ou des produits typiques de la région.",
+        "🛬 Transfert vers l'aéroport de Bari et vol retour vers Paris"
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Chiesa di Santa Lucia alle Malve, Matera",
+          "categorie": "Église rupestre",
+          "coords": { "lat": 40.6635, "lng": 16.6075 }
+        },
+        {
+          "nom_recherche": "Casa Grotta di Vico Solitario, Matera",
+          "categorie": "Musée",
+          "coords": { "lat": 40.6620, "lng": 16.6060 }
+        },
+        {
+          "nom_recherche": "Parco della Murgia Materana, Matera",
+          "categorie": "Parc naturel",
+          "coords": { "lat": 40.6620, "lng": 16.6200 }
+        }
+      ],
+      "illustration": "matera_jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "🚶‍♀️",
+          "titre": "Chaussures confortables",
+          "texte": "Les Sassi sont un dédale de montées et de descentes pavées. Des chaussures confortables et antidérapantes sont indispensables pour explorer la ville sans encombre."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "281 €/personne (A/R Paris-Bari)", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "Environ 50 €/personne (transferts aéroport-Matera)", "symbole": "🚆" },
+    { "titre": "Budget repas:", "legende": "Environ 80 €/personne (2 jours, type moyen)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "Environ 120 €/personne (2 nuits, hôtel 3* troglodyte)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "Environ 30 €/personne (entrées musées/églises)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Mai", "symbole": "🌸" },
+    { "titre": "Septembre-Octobre", "symbole": "🍂" }
+  ],
+  "infos_pratiques": [
+    { "titre": "En mai, les températures sont douces (15-25°C). Prévoir des vêtements légers pour la journée et une petite veste pour les soirées fraîches.", "symbole": "☀️" },
+    { "titre": "La monnaie est l'Euro (€). Les cartes de crédit sont largement acceptées, mais un peu de liquide est utile pour les petits commerces ou marchés.", "symbole": "💳" },
+    { "titre": "Matera est une ville très piétonne. Pour les transferts depuis Bari, le bus ou une navette privée sont les options les plus pratiques.", "symbole": "🚌" },
+    { "titre": "L'italien est la langue officielle. Quelques notions de base seront appréciées, mais l'anglais est souvent compris dans les zones touristiques.", "symbole": "🗣️" }
+  ],
+  "infos_decallees": [
+    {
+      "symbole": "💡",
+      "titre": "Le saviez-vous ?",
+      "texte": "Matera est l'une des plus anciennes villes habitées au monde, avec des preuves d'occupation humaine remontant à 10 000 ans. Ses \"Sassi\" (pierres) sont un témoignage vivant de l'évolution de l'habitat humain."
+    },
+    {
+      "symbole": "🙃",
+      "titre": "Insolite",
+      "texte": "Autrefois considérée comme la \"honte de l'Italie\" en raison de la pauvreté et des conditions insalubres des Sassi, Matera a connu une renaissance spectaculaire pour devenir un site UNESCO et Capitale Européenne de la Culture en 2019. Une véritable histoire de Cendrillon urbaine !"
+    }
+  ],
+  "specialites_culinaires": [
+    {
+      "symbole": "🍝",
+      "titre": "Orecchiette con cime di rapa",
+      "description": "Ces petites pâtes en forme d'oreille, spécialité des Pouilles et de la Basilicate, sont souvent servies avec des fanes de navet, de l'ail et du piment. Un plat simple mais incroyablement savoureux."
+    },
+    {
+      "symbole": "🍞",
+      "titre": "Pane di Matera",
+      "description": "Un pain artisanal à la croûte croustillante et à la mie dense, fabriqué avec de la semoule de blé dur locale. Il est si emblématique qu'il a obtenu le label IGP (Indication Géographique Protégée)."
+    },
+    {
+      "symbole": "🌶️",
+      "titre": "Peperoni cruschi",
+      "description": "Des poivrons doux typiques de la Basilicate, séchés puis frits rapidement dans de l'huile d'olive jusqu'à devenir incroyablement croustillants. Ils sont servis en apéritif ou pour accompagner des plats."
+    }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol Paris-Bari", "url": "https://www.kayak.fr/flights/CDG-BRI/2026-05-13/2026-05-15", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Tourisme Matera", "url": "https://www.basilicataturistica.it/en/matera/", "symbole": "📘" },
+    { "legende": "Transferts aéroport Bari-Matera", "titre": "Bus Pugliairbus", "url": "https://www.aeroportidipuglia.it/bus-pugliairbus", "symbole": "🚌" },
+    { "legende": "Météo", "titre": "Météo Matera", "url": "https://www.accuweather.com/fr/it/matera/213568/weather-forecast/213568", "symbole": "🌤️" }
+  ]
+}
